@@ -2,7 +2,7 @@
 
 We are a small group of developers, 
 we create web or mobile projects in the technologies, 
-react, react-native, rust
+react, react-native, Symfony
 
 <!--
 
